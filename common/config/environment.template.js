@@ -1,7 +1,7 @@
 module.exports = {
     "port": 3600,
-    "appEndpoint": "http://192.168.50.253:3600",
-    "apiEndpoint": "http://192.168.50.253:3600",
+    "appEndpoint": "http://127.0.0.1:3600",
+    "apiEndpoint": "http://127.0.0.1:3600",
     "jwtSecret": "",
     "cookieSecret": "",
     "jwtExpiration": 3600000,
